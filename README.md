@@ -1,1 +1,0 @@
-# RPI-Lab1-Zadacha1
